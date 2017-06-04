@@ -28,9 +28,9 @@ def timesByOneThousand(number)
 
 * 4) Build a method called `happyBackwards` that takes in a string, reverses it, and then adds on a smiley face character at the end. ("cool" -> "LOOC :)")
 
-* 5) Build a method called isEven that returns a boolean (true or false) depending on whether or not the number is divisible by 2. (3 -> false, 4 -> true)
+* 5) Build a method called `isEven` that returns a boolean (true or false) depending on whether or not the number is divisible by 2. (3 -> false, 4 -> true)
 
-* 6) Build a method called gradeCalculator that takes in a number (0 to 100) and returns the letter grade that corresponds to it. (95 -> "A", 85 -> "B")
+* 6) Build a method called `gradeCalculator` that takes in a number (0 to 100) and returns the letter grade that corresponds to it. (95 -> "A", 85 -> "B")
 
 
 
